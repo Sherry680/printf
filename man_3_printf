@@ -1,4 +1,4 @@
-.TH _PRINTF 3  "Holberton School 0x11. C - _printf"
+.TH _PRINTF 3  " 0x11. C - _printf"
 
 .SH NAME
 .B _printf\fR \- formatted output conversion
